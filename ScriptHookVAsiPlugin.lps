@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="ScriptHookVAsiPlugin.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <UsageCount Value="0"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="scripthookv.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ScriptHookV"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="0"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="natives.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Natives"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="0"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="menus.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Menus"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="0"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+</CONFIG>
